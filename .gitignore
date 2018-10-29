@@ -8,4 +8,3 @@ application-dev.yml
 .settings/
 .classpath
 .vscode/
-pom.xml
